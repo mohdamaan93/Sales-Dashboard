@@ -100,7 +100,7 @@ Sales-Dashboard/
 Add your dashboard screenshot inside the **Images** folder and display it using:
 
 ```md
-![Sales Dashboard](Images/dashboard.png)
+![Sales Dashboard](dashboard.png)
 ```
 
 ---
